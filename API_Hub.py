@@ -1,3 +1,6 @@
+# Celia Fernanda Vela Uribe
+# Cesar Andres Zuleta Malanco
+
 # ------------ LIBRARIES ------------
 # Libraries for sending HTTP requests
 import requests
